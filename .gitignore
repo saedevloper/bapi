@@ -2,3 +2,5 @@
 db.sqlite3
 blog/migrations/
 files/
+blog2/migrations/
+staticfiles/
